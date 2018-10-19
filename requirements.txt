@@ -1,0 +1,11 @@
+autocorrect==0.3.0
+flask==1.0.2
+gunicorn==19.8.1
+numpy==1.14.2
+pytest==3.5.1
+pyyaml==3.12
+requests==2.18.4
+slackclient==1.2.1
+scikit-learn==0.19.1
+scipy==1.0.0
+tqdm==4.21.0
